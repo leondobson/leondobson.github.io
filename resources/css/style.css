@@ -291,7 +291,8 @@ div.zoom {
     padding: 20px;
 }
 
-.video-text p {
+.video-text p, .video i {
+    width: 100%;
     padding: 10px;
 }
 
@@ -394,12 +395,12 @@ footer p {
     }
 
     section.box {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         position: static;
     }
 
     h2 {
-        font-size: 1.8rem;
+        font-size: 1.45rem;
     }
 
     section.introduction {
@@ -431,6 +432,12 @@ footer p {
     
     .video-text p {
         padding: 10px;
+        text-wrap: wrap;
+    }
+
+
+    #blackWomenRising {
+        font-size: 0.8;
     }
 
 }
