@@ -254,9 +254,13 @@ section.testimonial {
     align-items: center;
 }
 
-.testimonial div p {
+.testimonial div article {
     display: inline-block;
     padding: 20px;
+}
+
+.testimonial article p {
+    display: block;
 }
 
 div.zoom {
