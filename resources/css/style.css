@@ -223,8 +223,10 @@ section.box {
 
 .box a {
     display: inline-block;
-    text-decoration: underline;
-    padding: 0;
+    font-style: italic;
+    color: #000;
+    background-color: #FFF;
+    padding: 10px;
 }
 
 section.introduction {
