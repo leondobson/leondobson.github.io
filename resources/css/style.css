@@ -140,7 +140,7 @@ nav li {
     margin-right: 1rem;
 }
 
-.nav:hover, .box a:hover {
+.nav:hover {
     background-color: rgba(0, 0, 255, 0.5);
 }
 
